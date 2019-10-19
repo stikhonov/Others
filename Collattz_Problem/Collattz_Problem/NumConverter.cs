@@ -14,7 +14,6 @@ namespace Collattz_Problem
 
             Console.WriteLine("It's not a number!");
             return -1;
-
         }
     }
 }
